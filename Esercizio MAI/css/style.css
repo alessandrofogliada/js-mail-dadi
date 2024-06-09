@@ -1,0 +1,17 @@
+.tastoconferma{
+    height: 20px;
+    width: 200px;
+    background-color: yellow;
+    border: solid black 2px;
+    color: black;
+    text-align: center;
+}
+
+.esito {
+	width: 200px;
+	height: 40px;
+	color: black;
+	background-color: aquamarine;
+	margin: 40px 0;
+	text-align: center;
+}
