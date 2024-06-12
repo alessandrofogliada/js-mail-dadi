@@ -19,10 +19,10 @@ tastoConferma.addEventListener ("click" ,
 
 let esitoEmail = document.querySelector("section");
 
-if (emailUtente === "1") {
+if (emailUtente === "fogliada.a@gmail.com") {
     esitoEmail.style.backgroundColor = "green";
     esitoEmail.textContent = "idoneo";
-} else if (emailUtente !== "1") {
+} else if (emailUtente !== "fogliada.a@gmail.com") {
     esitoEmail.style.backgroundColor = "red";
     esitoEmail.textContent = "non idoneo";
 } else {
